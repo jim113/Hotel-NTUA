@@ -1,4 +1,4 @@
-# Implementation of board game "Hotel" using Java
+## Implementation of board game "Hotel" using Java
 Two boards included in folders *default* and *simple*.  
 Graphic GUI including all functionalities of the game written using *JavaFX*.   
 - Rolling dice  
@@ -14,7 +14,7 @@ Image from the board while the game is being played.
    
 ![screenshot](img1.png)  
 
-# Instructions
+## Instructions
 After cloning run  
 ```
 java eHotel_Game
